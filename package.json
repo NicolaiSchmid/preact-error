@@ -1,0 +1,16 @@
+{
+  "name": "preact-error",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "preact watch"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "preact-cli": "3.0.0-rc.10"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.9.9",
+    "preact": "10.3.0"
+  }
+}

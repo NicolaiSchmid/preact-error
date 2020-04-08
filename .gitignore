@@ -1,0 +1,13 @@
+.env
+config.js
+
+reports/
+TODOs.md
+
+node_modules
+/build
+/*.log
+*.lock
+
+stats.json
+size-plugin.json
